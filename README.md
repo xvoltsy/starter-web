@@ -3,6 +3,7 @@
 Add more text.
 Add text
 More changes for feature branch too.
+Some fix.
 
 
 This repository is for showing how Git and GitHub work
